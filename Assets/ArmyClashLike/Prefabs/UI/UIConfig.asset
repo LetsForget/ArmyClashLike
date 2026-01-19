@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 347dd87810a04f3196e284e74db6f350, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: 
+  <ShowGroupTime>k__BackingField: 0.8
+  <HideGroupTime>k__BackingField: 0.8
+  <FrameHolderDatas>k__BackingField:
+  - type: 20
+    frames:
+    - data:
+        m_AssetGUID: ad8a4318e623bd14e9f6cf5578181ce0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    - data:
+        m_AssetGUID: c472abc4243ccac42a50bc761305335c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+  - type: 10
+    frames:
+    - data:
+        m_AssetGUID: 08818b43a2b6f9143a11ea8312e1bedb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    - data:
+        m_AssetGUID: 3003e906cc19e8f44b422a250bd345e5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0

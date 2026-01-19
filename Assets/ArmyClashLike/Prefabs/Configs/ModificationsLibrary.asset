@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e56b5d4599a549c3b6c129bddcf99c05, type: 3}
+  m_Name: ModificationsLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ArmyClashLike.Gameplay.Units.Modificators.ModificationsLibrary
+  <BaseStats>k__BackingField:
+    attack: 10
+    attackSpeed: 1
+    health: 100
+    speed: 10
+  <ColorModifications>k__BackingField:
+  - modifications:
+    - statType: 10
+      applyType: 10
+      applyValue: -15
+    - statType: 20
+      applyType: 10
+      applyValue: 4
+    - statType: 40
+      applyType: 10
+      applyValue: 10
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - modifications:
+    - statType: 30
+      applyType: 10
+      applyValue: -50
+    - statType: 10
+      applyType: 10
+      applyValue: 20
+    - statType: 40
+      applyType: 10
+      applyValue: -5
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - modifications:
+    - statType: 30
+      applyType: 10
+      applyValue: 200
+    - statType: 10
+      applyType: 10
+      applyValue: 40
+    - statType: 40
+      applyType: 10
+      applyValue: -9
+    color: {r: 1, g: 0, b: 0, a: 1}
+  <SizeModifications>k__BackingField:
+  - modifications:
+    - statType: 30
+      applyType: 10
+      applyValue: -50
+    sizeChange: 0.75
+  - modifications:
+    - statType: 30
+      applyType: 10
+      applyValue: 50
+    sizeChange: 1.5

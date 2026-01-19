@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 174bbcabbc42b9e4e997e557e9f4850b
+  m_SerializeEntries:
+  - m_GUID: 08818b43a2b6f9143a11ea8312e1bedb
+    m_Address: Assets/ArmyClashLike/Prefabs/UI/FormationSelect/FormationSelectFrame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3003e906cc19e8f44b422a250bd345e5
+    m_Address: Assets/ArmyClashLike/Prefabs/UI/BattleEnd/BattleEndOverlay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 376425122db2e2845bd38e5721b7b77f
+    m_Address: Assets/ArmyClashLike/Scenes/Gameplay/Gameplay.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad8a4318e623bd14e9f6cf5578181ce0
+    m_Address: Assets/MXRacing/Prefabs/UI/MainMenu/MainMenuFrame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c472abc4243ccac42a50bc761305335c
+    m_Address: Assets/ArmyClashLike/Prefabs/UI/LevelChose/LevelChoseFrame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df6547a96afbdce4f9c8360fbb7b2037
+    m_Address: Assets/ArmyClashLike/Prefabs/Units/CubeWarriror.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e018b218e66b64143b65f53bea00b104
+    m_Address: Assets/ArmyClashLike/Prefabs/Units/SphereWarrior.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc09cfabc7910214197f5f9bf2e473d8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c85a8b7f22a98c042a7ae1703a0ccc5d, type: 2}
+    - {fileID: 11400000, guid: a9b0bc9b797f4544fbb1aee9c5cecde5, type: 2}

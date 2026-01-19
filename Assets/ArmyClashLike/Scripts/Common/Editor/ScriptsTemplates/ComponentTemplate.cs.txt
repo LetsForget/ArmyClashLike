@@ -1,0 +1,9 @@
+﻿using Unity.Entities;
+
+namespace Common.Editor.ScriptsTemplates
+{
+    public struct #SCRIPTNAME# : IComponentData
+    {
+        
+    }
+}
