@@ -6,6 +6,6 @@ namespace ArmyClashLike.Gameplay
     public struct SizeModification
     {
         public Modification[] modifications;
-        public float sizeChange;
+        public float size;
     }
 }

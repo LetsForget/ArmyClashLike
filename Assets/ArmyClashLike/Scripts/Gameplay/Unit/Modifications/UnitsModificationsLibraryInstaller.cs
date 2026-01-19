@@ -9,7 +9,7 @@ namespace ArmyClashLike.Gameplay
 
         public override void InstallBindings()
         {
-            Container.BindInterfacesAndSelfTo<SOUnitsModificationsLibrary>().AsSingle().WithArguments(library);
+            Container.BindInterfacesAndSelfTo<SOUnitsModifications>().AsSingle().WithArguments(library);
         }
     }
 }

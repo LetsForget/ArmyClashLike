@@ -8,6 +8,6 @@ namespace ArmyClashLike.Gameplay
     public struct ColorModification
     {
         public Modification[] modifications;
-        [FormerlySerializedAs("colorChange")] public Color color;
+        public Color color;
     }
 }

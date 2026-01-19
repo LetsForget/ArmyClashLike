@@ -33,6 +33,8 @@ namespace ArmyClashLike.Gameplay
             
             this.playerUnitSet = playerUnitSet;
             this.enemyUnitSet = enemyUnitSet;
+            
+            battleOver = false;
         }
 
         public void Update(float deltaTime)

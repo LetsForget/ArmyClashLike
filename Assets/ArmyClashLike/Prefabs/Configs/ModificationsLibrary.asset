@@ -56,9 +56,9 @@ MonoBehaviour:
     - statType: 30
       applyType: 10
       applyValue: -50
-    sizeChange: 0.75
+    size: 0.75
   - modifications:
     - statType: 30
       applyType: 10
       applyValue: 50
-    sizeChange: 1.5
+    size: 1.5

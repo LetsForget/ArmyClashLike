@@ -2,7 +2,7 @@
 
 namespace ArmyClashLike.Gameplay
 {
-    public class SOUnitsModificationsLibrary : IUnitsModifications
+    public class SOUnitsModifications : IUnitsModifications
     {
         private readonly UnitsModificationsLibrary library;
         
@@ -10,7 +10,7 @@ namespace ArmyClashLike.Gameplay
         public ColorModification[] ColorModifications => library.ColorModifications;
         public SizeModification[] SizeModifications => library.SizeModifications;
         
-        public SOUnitsModificationsLibrary(UnitsModificationsLibrary library)
+        public SOUnitsModifications(UnitsModificationsLibrary library)
         {
             this.library = library;
         }

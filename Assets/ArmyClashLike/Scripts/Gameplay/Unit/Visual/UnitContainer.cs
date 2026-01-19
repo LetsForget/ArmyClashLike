@@ -28,7 +28,7 @@ namespace ArmyClashLike.Gameplay
 
         public void Modify(SizeModification modification)
         {
-            transform.localScale = new Vector3(modification.sizeChange, modification.sizeChange, modification.sizeChange);
+            transform.localScale = new Vector3(modification.size, modification.size, modification.size);
         }
     }
 }
