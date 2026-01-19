@@ -31,6 +31,6 @@ MonoBehaviour:
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 0
-    <PlayerUnitsCount>k__BackingField: 3
-    <EnemyUnitsCount>k__BackingField: 3
+    <PlayerUnitsCount>k__BackingField: 20
+    <EnemyUnitsCount>k__BackingField: 20
     <EnemyFormation>k__BackingField: 1
